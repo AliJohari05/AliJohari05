@@ -1,15 +1,17 @@
+<!-- Full Background Wrapper -->
+<div style="background: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5NTY0MDE2NDYyNTQ0NGNiMjVkYWMwNDY3NmU3ZGE1YmM4NjM1MCZjdD1n/cnQfj2Xm1NNi35eMNH/giphy.gif') center/cover no-repeat; padding: 40px;">
+
 <!-- Banner / Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:ff0066&height=200&section=header&text=Ali%20Johari&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">🚀 Developer | Python Instructor | Tech Enthusiast 🚀</h3>
-
-<!-- Background GIF -->
-![3D Hacker Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5NTY0MDE2NDYyNTQ0NGNiMjVkYWMwNDY3NmU3ZGE1YmM4NjM1MCZjdD1n/cnQfj2Xm1NNi35eMNH/giphy.gif)
+<h3 align="center" style="color:white;">🚀 Developer | Python Instructor | Tech Enthusiast 🚀</h3>
 
 <!-- Typing Intro Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=900&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Ali+Johari;Python+Instructor+%26+Full-Stack+Developer;Expert+in+Python%2C+C%2C+Java%2C+Kotlin%2C+Verilog;Currently+Learning+Django;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+</div>
 
 ---
 
