@@ -37,7 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AliJohari05&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliJohari05&theme=radical" height="150"/>
 </p>
-
+<!-- Background GIF -->
+![3D Hacker Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5NTY0MDE2NDYyNTQ0NGNiMjVkYWMwNDY3NmU3ZGE1YmM4NjM1MCZjdD1n/cnQfj2Xm1NNi35eMNH/giphy.gif)
 ---
 
 ## 🏆 GitHub Profile Trophies
