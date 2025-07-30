@@ -3,8 +3,12 @@
 
 <h3 align="center">🚀 Developer | Python Instructor | Tech Enthusiast 🚀</h3>
 
+<!-- Background GIF -->
+![3D Hacker Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5NTY0MDE2NDYyNTQ0NGNiMjVkYWMwNDY3NmU3ZGE1YmM4NjM1MCZjdD1n/cnQfj2Xm1NNi35eMNH/giphy.gif)
+
+<!-- Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+%7C+Python+Instructor;Expert+in+Python%2C+C%2C+Java%2C+Kotlin%2C+Verilog;Currently+Learning+Django;Loves+Automation+and+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=900&color=00FFAA&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Ali+Johari;Python+Instructor+%26+Full-Stack+Developer;Expert+in+Python%2C+C%2C+Java%2C+Kotlin%2C+Verilog;Currently+Learning+Django;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,8 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AliJohari05&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliJohari05&theme=radical" height="150"/>
 </p>
-<!-- Background GIF -->
-![3D Hacker Background](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5NTY0MDE2NDYyNTQ0NGNiMjVkYWMwNDY3NmU3ZGE1YmM4NjM1MCZjdD1n/cnQfj2Xm1NNi35eMNH/giphy.gif)
+
 ---
 
 ## 🏆 GitHub Profile Trophies
