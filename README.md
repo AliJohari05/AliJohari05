@@ -1,14 +1,9 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:ff0066&height=200&section=header&text=Ali%20Johari&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliJohari05&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 <!-- Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi!+I'm+Ali+Johari;Computer+Engineering+Student;Python+Instructor+%26+Backend+Developer;Expert+in+Python%2C+C%2C+Java%2C+Kotlin%2C+Verilog;Linux+%26+Open+Source+Enthusiast;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi!+I'm+Ali+Johari;Computer+Engineering+Student;Python+Instructor;Django+Backend+Developer;AI+%26+Automation+Enthusiast;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,8 +11,8 @@
 ## 🌟 About Me
 - 🎓 **Computer Engineering Student** with a strong passion for software architecture and clean code.
 - 💻 **Tech Stack:** Python, C, Java, Kotlin, Verilog, Django, Docker, and Linux.
+- 🤖 **Interests:** Artificial Intelligence, Data Analysis, Backend Development, and Automation.
 - 🐍 **Teaching:** Python instructor for university students & professionals.
-- 🔐 **Interests:** Backend Development, Linux Command Line, and Blockchain/Wallet Security.
 - 🌱 **Currently exploring:** Advanced System Design and Open Source Contributions.
 - 📫 **Reach me at:** [alitehranijohari1384@gmail.com](mailto:alitehranijohari1384@gmail.com)
 
@@ -40,19 +35,15 @@
 ## 🐍 GitHub Contribution Snake
 <!-- The Snake Animation will be generated here automatically by GitHub Actions -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliJohari05/AliJohari05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliJohari05/AliJohari05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AliJohari05/AliJohari05/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AliJohari05/AliJohari05/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliJohari05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliJohari05&theme=radical&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliJohari05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliJohari05&theme=radical&hide_border=true&background=0D1117&v=1" height="165" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,7 +51,7 @@
 ## 🏆 GitHub Profile Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AliJohari05&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AliJohari05&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&v=1" alt="Trophies" />
   </a>
 </p>
 
