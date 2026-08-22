@@ -12,12 +12,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # این بخش برای حل خطای 128 (دسترسی نوشتن) اضافه شده است
     permissions:
       contents: write 
 
     steps:
-      # نسخه‌ها به v4 ارتقا یافتند تا هشدار Node.js برطرف شود
       - uses: actions/checkout@v4
       
       - uses: Platane/snk@v3
